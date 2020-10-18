@@ -33,4 +33,8 @@ konusunda da tecrübelerim bulunmaktadır.
 
 Projeye hata yönetimi, kullanıcı ve rol yönetimi özellikleri geliştirilip dahil edilebilir.
 
+WebApi için yapılacak olan requestlerde token alınabilmesi için aşağıdaki bilgiler kullanılabilir.
+Kullanıcı Adı: ahmetdogan
+Şifre: password1!
+
 Teşekkürler.
