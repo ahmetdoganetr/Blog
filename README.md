@@ -21,18 +21,6 @@ Projenin birbirine bağlı üç parçaya ayrılmasını gerçekleştirmektedir. 
 - MSSQL
 - Json Web Token
 
-
-Yukarıda belirtilen teknoloji ve yöntemler proje içerisinde kullanılmaktadır. Ek olarak proje içerisinde kullanılan teknolojilerin yanında; 
-- Asp .Net MVC
-- Asp .Net WebApi
-- MYSQL, T-SQL 
-- Javascript, Ajax, Jquery
-- HTML, CSS 
-
-konusunda da tecrübelerim bulunmaktadır.
-
-Projeye hata yönetimi, kullanıcı ve rol yönetimi özellikleri geliştirilip dahil edilebilir.
-
 WebApi için yapılacak olan requestlerde token alınabilmesi için aşağıdaki bilgiler kullanılabilir.
 Kullanıcı Adı: ahmetdogan
 Şifre: password1!
